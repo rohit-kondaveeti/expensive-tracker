@@ -10,7 +10,7 @@ function App() {
   const [expenses, setExpenses] = useState([
     {
       id: 1,
-      description: "djxbjdfsn",
+      description: "Movie",
       amount: 6,
       category: "Entertainment",
     },
