@@ -1,7 +1,8 @@
 # expensive-tracker
 
 # live website preview
-(https://expensive-tracker-rohi.netlify.app/)# vite-pages library starter
+https://expensive-tracker-rohi.netlify.app/
+# vite-pages library starter
 
 This project demonstrate how to develop a library using vite as your local develop environment.
 
